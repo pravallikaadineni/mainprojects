@@ -1,0 +1,22 @@
+
+
+
+                                 
+----------------------------------------------------------------------------
+S.NO	  NAME		  ROLLNO	 SECTION         CLASS	   ADDRESS 
+---------------------------------------------------------------------------- 
+1      bhargav              1		   A		  4       Tirupati
+2      nani                 2              A              4       Kadapa
+3      pravalli             3              A              4       Tirupati
+4      yeshu                4              A              5       Pune                     
+5      devi       	    5              A              5       Banglore
+6      sai                  6              A              9       Chennai
+7      likitha              7              A              9       Mumbai
+8      siva                 8              A             10       Paris
+9      sandy                9              A             10       Tirupati
+10     krish               10              A             10       Kadapa
+
+===========================================================================
+Github Link: https://github.com/pravallikaadineni/mainprojects.git 
+===========================================================================
+  
