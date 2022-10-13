@@ -1,0 +1,6 @@
+D:\repos\WebApiProject\DAL_library\bin\Debug\DAL_library.dll
+D:\repos\WebApiProject\DAL_library\bin\Debug\DAL_library.pdb
+D:\repos\WebApiProject\DAL_library\obj\Debug\DAL_library.csproj.AssemblyReference.cache
+D:\repos\WebApiProject\DAL_library\obj\Debug\DAL_library.csproj.CoreCompileInputs.cache
+D:\repos\WebApiProject\DAL_library\obj\Debug\DAL_library.dll
+D:\repos\WebApiProject\DAL_library\obj\Debug\DAL_library.pdb
