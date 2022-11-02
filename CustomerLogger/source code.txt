@@ -1,0 +1,31 @@
+GitHub Link : https://github.com/pravallikaadineni/CustomerSupportLogger.git
+===================================================================================
+SQL COMMANDS
+===================================================================================
+
+use customerdb
+create table userinfo(
+userid int primary key,
+email nvarchar(100),
+password nvarchar(20)
+)
+create table custloginfo(
+logid int primary key,
+custemail nvarchar(100),
+custname nvarchar(50),
+logstatus nvarchar(50),
+userid int foreign key references userinfo(userid),
+description nvarchar(50))
+select *from userinfo
+select *from custloginfo
+
+insert into userinfo values (1,'abc@123','abc')
+insert into userinfo values (2,'xyz@123','xyz')
+insert into userinfo values (3,'sweety@gmail','avs')
+insert into userinfo values (4,'pqr@678','pqr')
+
+
+
+
+
+
